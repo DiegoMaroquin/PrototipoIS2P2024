@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|c:\\users\\jmarr\\onedrive\\escritorio\\examenanalisis2\\evaluacionis2k24\\codigo\\modulos\\prototipo\\prototipo\\capa_vista\\calendario_citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\calendario_citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\confirmacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\confirmacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\datosboleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\datosboleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmaplicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmaplicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmconfirmacionboleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmconfirmacionboleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmcreaci\u00F3nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmcreaci\u00F3nusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmdatospersonales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmdatospersonales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmgeneracionboleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmgeneracionboleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmmantenimientopreciob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmmantenimientopreciob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmmantenimientorenappersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmmantenimientorenappersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmmenurenap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmmenurenap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmverificaci\u00F3npasaporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmverificaci\u00F3npasaporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\horariosdispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\horariosdispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\menuprototipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\menuprototipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmreagendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmreagendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmreagendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmreagendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D75E74-48C1-44B6-A078-2DBEA0B01F71}|Capa_controlador\\Controlador_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_controlador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D75E74-48C1-44B6-A078-2DBEA0B01F71}|Capa_controlador\\Controlador_PrototipoMenu.csproj|solutionrelative:capa_controlador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4786EB0D-2CC7-4F95-91C0-25D7095018B4}|Modelo\\Modelo_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\modelo\\sentencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4786EB0D-2CC7-4F95-91C0-25D7095018B4}|Modelo\\Modelo_PrototipoMenu.csproj|solutionrelative:modelo\\sentencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\validaciondedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\validaciondedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\horariosdispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\horariosdispo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\calendario_citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\calendario_citas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\validaciondedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\validaciondedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\frmdatospersonales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\frmdatospersonales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\datosboleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\datosboleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\capa_vista\\menuprototipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658EB388-5D42-4CF5-A8AF-5E074861088A}|Capa_vista\\Vista_PrototipoMenu.csproj|solutionrelative:capa_vista\\menuprototipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Confirmacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\Confirmacion.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\Confirmacion.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\Confirmacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\Confirmacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:54:32.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmConfirmacionBoleta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmConfirmacionBoleta.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmConfirmacionBoleta.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmConfirmacionBoleta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\frmConfirmacionBoleta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:54:29.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAplicaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmAplicaciones.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmAplicaciones.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmAplicaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\frmAplicaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calendario_citas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\Calendario_citas.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\Calendario_citas.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\Calendario_citas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\Calendario_citas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.858Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCreaci\u00F3nUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmCreaci\u00F3nUsuario.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmCreaci\u00F3nUsuario.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmCreaci\u00F3nUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\frmCreaci\u00F3nUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:54:28.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatosBoleta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\DatosBoleta.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\DatosBoleta.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\DatosBoleta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\DatosBoleta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\frmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:54:25.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMantenimientoPrecioB.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmMantenimientoPrecioB.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmMantenimientoPrecioB.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmMantenimientoPrecioB.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\frmMantenimientoPrecioB.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:54:22.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmGeneracionBoleta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmGeneracionBoleta.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmGeneracionBoleta.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmGeneracionBoleta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\frmGeneracionBoleta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDatosPersonales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmDatosPersonales.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmDatosPersonales.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmDatosPersonales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\frmDatosPersonales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMantenimientoRenapPersonas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmMantenimientoRenapPersonas.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmMantenimientoRenapPersonas.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmMantenimientoRenapPersonas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\frmMantenimientoRenapPersonas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:54:21.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmMenuRenap.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmMenuRenap.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmMenuRenap.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmMenuRenap.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\frmMenuRenap.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:54:20.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmReagendar.cs",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmReagendar.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmReagendar.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmReagendar.cs",
+              "RelativeToolTip": "Capa_vista\\frmReagendar.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAuwHQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Controlador.cs",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_controlador\\Controlador.cs",
+              "RelativeDocumentMoniker": "Capa_controlador\\Controlador.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_controlador\\Controlador.cs",
+              "RelativeToolTip": "Capa_controlador\\Controlador.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAmwFwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuPrototipo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\MenuPrototipo.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\MenuPrototipo.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\MenuPrototipo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\MenuPrototipo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HorariosDispo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\HorariosDispo.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\HorariosDispo.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\HorariosDispo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\HorariosDispo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmVerificaci\u00F3nPasaporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmVerificaci\u00F3nPasaporte.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmVerificaci\u00F3nPasaporte.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmVerificaci\u00F3nPasaporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_vista\\frmVerificaci\u00F3nPasaporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sentencias.cs",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Modelo\\Sentencias.cs",
+              "RelativeDocumentMoniker": "Modelo\\Sentencias.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Modelo\\Sentencias.cs",
+              "RelativeToolTip": "Modelo\\Sentencias.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAuwJkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValidacionDeDatos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\ValidacionDeDatos.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\ValidacionDeDatos.cs",
+              "ToolTip": "C:\\Users\\d_car\\OneDrive\\Documentos\\GitHub\\ProyectoMigracion\\ProyectoMigracion_G1\\Equipo1\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\ValidacionDeDatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\d_car\\OneDrive\\Documentos\\GitHub\\ProyectoMigracion\\ProyectoMigracion_G1\\Equipo1\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\ValidacionDeDatos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-17T20:53:24.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmReagendar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmReagendar.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmReagendar.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmReagendar.cs [Design]",
+              "RelativeToolTip": "Capa_vista\\frmReagendar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:23.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HorariosDispo.cs",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\HorariosDispo.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\HorariosDispo.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\HorariosDispo.cs",
+              "RelativeToolTip": "Capa_vista\\HorariosDispo.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwFsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Calendario_citas.cs",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\Calendario_citas.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\Calendario_citas.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\Calendario_citas.cs",
+              "RelativeToolTip": "Capa_vista\\Calendario_citas.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ValidacionDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\ValidacionDeDatos.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\ValidacionDeDatos.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\ValidacionDeDatos.cs",
+              "RelativeToolTip": "Capa_vista\\ValidacionDeDatos.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAApwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-17T20:53:24.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmDatosPersonales.cs",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmDatosPersonales.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\frmDatosPersonales.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\frmDatosPersonales.cs",
+              "RelativeToolTip": "Capa_vista\\frmDatosPersonales.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAhwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatosBoleta.cs",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\DatosBoleta.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\DatosBoleta.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\DatosBoleta.cs",
+              "RelativeToolTip": "Capa_vista\\DatosBoleta.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MenuPrototipo.cs",
+              "DocumentMoniker": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\MenuPrototipo.cs",
+              "RelativeDocumentMoniker": "Capa_vista\\MenuPrototipo.cs",
+              "ToolTip": "C:\\Users\\jmarr\\OneDrive\\Escritorio\\examenanalisis2\\EvaluacionIS2k24\\Codigo\\Modulos\\Prototipo\\Prototipo\\Capa_vista\\MenuPrototipo.cs",
+              "RelativeToolTip": "Capa_vista\\MenuPrototipo.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAkwIoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:53:24.878Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
